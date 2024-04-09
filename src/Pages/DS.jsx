@@ -19,7 +19,7 @@ export default function DS(){
 
             <a href="https://www.guvi.in/blog/roles-and-responsibilities-of-a-data-scientist/" className="card">
                 <div >
-                <img src="https://www.guvi.in/blog/wp-content/uploads/2023/07/image-4.png" alt="Card Image"/>
+                <img src="/images/ds1.webp" alt="Card Image"/>
                 <div className="details">
                     <h3>Roles and Responsibilities of a Data Scientist</h3>
                     
