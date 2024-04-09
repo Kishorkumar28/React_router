@@ -9,7 +9,7 @@ export default function ALL(){
 
             <a href="https://www.guvi.in/blog/how-to-render-an-array-of-objects-in-react/" className="card">
                 <div >
-                <img src="https://www.guvi.in/blog/wp-content/uploads/2022/12/Render-array-of-objects-in-ReactJs.png" alt="Card Image"/>
+                <img src="https://www.guvi.in/blog/wp-content/uploads/2022/12/Render-array-of-objects-in-ReactJs-768x432.png" alt="Card Image"/>
                 <div className="details">
                     <h3>How to Render an Array of Objects in React? [in 3 easy steps]</h3>
                     
@@ -29,7 +29,8 @@ export default function ALL(){
 
             <a href="https://www.guvi.in/blog/best-javascript-project-ideas/" className="card">
                 <div >
-                <img src="https://www.guvi.in/blog/wp-content/uploads/2023/02/animated-javascript-project-image.jpg" alt="Card Image"/>
+                <img src="https://www.guvi.in/blog/wp-content/uploads/2023/02/animated-javascript-project-image.jpg" alt="Card Image" />
+
                 <div className="details">
                     <h3>30 Best JavaScript Project Ideas For You [3 Bonus Portfolio Projects]</h3>
                     
