@@ -19,7 +19,7 @@ export default function ALL(){
 
             <a href="https://www.guvi.in/blog/unique-project-ideas-for-college-students/" className="card">
                 <div >
-                <img src="https://www.guvi.in/blog/wp-content/uploads/2023/06/feature-image-unique-project-ideas.jpg" alt="Card Image"/>
+                <img src="/images/home2.jpg" alt="Card Image"/>
                 <div className="details">
                     <h3>Top 10 Unique Project Ideas for College Students</h3>
                     
@@ -29,7 +29,7 @@ export default function ALL(){
 
             <a href="https://www.guvi.in/blog/best-javascript-project-ideas/" className="card">
                 <div >
-                <img src="https://www.guvi.in/blog/wp-content/uploads/2023/02/animated-javascript-project-image.jpg" alt="Card Image" />
+                <img src="/images/home3.jpg" alt="Card Image" />
 
                 <div className="details">
                     <h3>30 Best JavaScript Project Ideas For You [3 Bonus Portfolio Projects]</h3>
