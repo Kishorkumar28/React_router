@@ -38,7 +38,6 @@ export default function ALL(){
                 </div>
             </a>
 
-            
             </div>
         </div>
     )
