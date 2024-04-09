@@ -9,7 +9,7 @@ export default function ALL(){
 
             <a href="https://www.guvi.in/blog/how-to-render-an-array-of-objects-in-react/" className="card">
                 <div >
-                <img src="./src/images/home1.webp" alt="Card Image"/>
+                <img src="./public/images/home1.webp" alt="Card Image"/>
                 <div className="details">
                     <h3>How to Render an Array of Objects in React? [in 3 easy steps]</h3>
                     
